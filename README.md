@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Adil+Rasheed....;Nice+to+meet+you!&center=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammad+Saif....;Nice+to+meet+you!&center=true&size=18">
   </a>
 </h1>
-<h3 align="center">🎓 I am a Postgradute Student, completed Master of Computer Application.</h3>
+<h3 align="center">🎓 I am a Postgradute Student, pursuing Master of Computer Application.</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dr5kn8993/image/upload/v1711788728/My%20Images/coder.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eradilrasheed&label=Profile%20views&color=0e75b6&style=flat" alt="eradilrasheed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif8804&label=Profile%20views&color=0e75b6&style=flat" alt="saif8804" /> </p>
 <p align="left"> <a href="https://twitter.com/er_marasheed" target="blank"><img src="https://img.shields.io/twitter/follow/er_marasheed?logo=twitter&style=for-the-badge" alt="er_marasheed" /></a> </p>
 - 🎯 Focusing on FullStack (Frontend + Backend ).😎<br>
 - 🌱 Trying to become an expert in Fullstack development ❤ <br>
