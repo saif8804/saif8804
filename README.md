@@ -26,15 +26,9 @@
 
 ## Tech Stack 🥞
 <p align="center">
-  <img alt="Core Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="MySql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23ffd2ce.svg?style=for-the-badge&logo=mongodb&logoColor=140200" />
   <img alt="ReactJs" src="https://img.shields.io/badge/react-f2ca61.svg?style=for-the-badge&logo=react&logoColor=140200"/>
-  <img alt="NextJs" src="https://img.shields.io/badge/next.js-%23fca9ae.svg?style=for-the-badge&logo=next.js&logoColor=140200" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/node.js-%23f2ca61.svg?style=for-the-badge&logo=node.js&logoColor=%FFFFFF"/>
-  <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23ffd2ce.svg?style=for-the-badge&logo=express&logoColor=140200"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
