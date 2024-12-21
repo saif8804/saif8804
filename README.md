@@ -12,7 +12,7 @@
 - 🌱 Trying to become an expert in Fullstack development ❤ <br>
 - 💻 I love exploring new tech stacks and building cool stuff.<br>
 - 📰 Reading tech documentation whenever possible.<br>
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.<br>
+- 🥅 2025 Goals: Learn Cloud on AWS and Azure.<br>
 - 🤝 I’m looking for help to get a new job.<br>
 - 👨‍💻 All of my projects are available here [will update soon]<br>
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
@@ -48,16 +48,16 @@
 </p>
  
 ## My GitHub Stats 📈
-[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=eradilrasheed&theme=nightowl&show_icons=true)](https://github.com/eradilrasheed/github-readme-stats)
+[![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif8804&theme=nightowl&show_icons=true)](https://github.com/saif8804/github-readme-stats)
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eradilrasheed&theme=nightowl" alt="adilrasheed" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saif8804&theme=nightowl" alt="My-Stat" />
 </p>
 
 ---
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eradilrasheed&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif8804&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
 
