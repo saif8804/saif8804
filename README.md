@@ -7,7 +7,6 @@
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dr5kn8993/image/upload/v1711788728/My%20Images/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif8804&label=Profile%20views&color=0e75b6&style=flat" alt="saif8804" /> </p>
-<p align="left"> <a href="https://twitter.com/er_marasheed" target="blank"><img src="https://img.shields.io/twitter/follow/er_marasheed?logo=twitter&style=for-the-badge" alt="er_marasheed" /></a> </p>
 - 🎯 Focusing on FullStack (Frontend + Backend ).😎<br>
 - 🌱 Trying to become an expert in Fullstack development ❤ <br>
 - 💻 I love exploring new tech stacks and building cool stuff.<br>
@@ -20,10 +19,8 @@
 ---
 ### Connect With Me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/er.marasheed)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madrashee) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/er.marasheed)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/er_marasheed)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.adilrasheed@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saif-a51932232/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sa519400@gmail.com)
 
 ---
 
@@ -61,11 +58,4 @@
 
 ---
 
-### Top Repositories
 
-<a href="https://github.com/ErAdilrasheed/Developer-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=developer-portfolio&theme=nightowl" />
-</a>
-<a href="https://github.com/ErAdilrasheed/FiverrIndia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eradilrasheed&repo=Express-Postgres-blog&theme=nightowl" />
-</a>
